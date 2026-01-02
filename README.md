@@ -1,2 +1,3 @@
 # 100-days-of-python
-Daily-python-2026
+# Daily python learning 
+# Day 1 Variables 
